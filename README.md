@@ -1,4 +1,4 @@
-# Leet Detection and Decode Chrome Extension
+# Bangladeshi Software Company Details Scraping and Validation
 
 A tool that detects and decodes leetspeak (1337) text in https://deshimula.com/ web pages, with a focus on company names and details.
 
